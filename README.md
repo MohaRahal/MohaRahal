@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohaRahal
 - 👀 I’m interested Web Development
-- 🌱 I’m currently learning C,JAVASCRIPT,HTML,CSS
+- 🌱 I’m currently learning C,C#,PY,POSTSQL,JAVASCRIPT,HTML,CSS
 
 
 <!---
