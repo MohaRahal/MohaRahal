@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohaRahal
-- 👀 I’m interested Web Development
-- 🌱 I’m currently learning C,C#,PY,POSTSQL,JAVASCRIPT,HTML,CSS
+- 👀 I’m studying to be a Back-end Developer
+- 💻 I’m currently learning -> C  C#  PY POSTSQL JAVASCRIPT HTML and CSS
 
 
 <!---
