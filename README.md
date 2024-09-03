@@ -18,7 +18,7 @@
 
 
 
-![Snake animation](https://github.com/MohaRahal/MohaRahal/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 MohaRahal/MohaRahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
